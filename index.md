@@ -11,3 +11,6 @@ function sayHello() {
   console.log("Hello World!");
 }
 ```
+- [x] Task A is completed
+- [ ] Do the task B not complete yet
+- [ ] Do the task C
